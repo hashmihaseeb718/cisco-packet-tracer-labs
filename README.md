@@ -166,4 +166,4 @@ Useful commands: `show ip route`, `show ip ospf neighbor`, `show ip ospf virtual
 ## Author
 
 **Haseeb** - BS Information Technology, NUML | Networking & Cybersecurity
-(Connect on [LinkedIn](www.linkedin.com/in/haseeb-hashmi-9bb3293a6))
+Connect on [LinkedIn](https://www.linkedin.com/in/haseeb-hashmi-9bb3293a/)
